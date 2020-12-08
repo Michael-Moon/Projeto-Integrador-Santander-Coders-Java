@@ -43,6 +43,6 @@ https://comunidadeorganica.herokuapp.com
 <p>Busca também aproximar clientes de pessoas comuns que não exercem a profissão de vendedor, gerando renda e movimentando a economia local através da oferta de hortaliças e demais produtos cultivados em pequenas hortas. ​ ​</p>
 <p>Permite também ao usuário cadastrar-se no sistema e efetuar login. Além disso, cadastrar, editar e excluir um produto, alterar dados pessoais e exibir um gráfico simples de vendas dos últimos meses. </p>
 
-###### gif de algumn prits de tela do sistema.
+###### gif de alguns prits de tela do sistema.
 
 ![](resources_readme/CO_gif.gif)
